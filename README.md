@@ -33,8 +33,12 @@ I build intelligent, full-stack AI applications — combining machine learning, 
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic_AI-5B5FEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tool_Calling-7B61FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge"/>
 
@@ -118,6 +122,6 @@ End-to-end churn prediction platform with SHAP explainability, an analytics dash
 
 <br/><br/>
 
-### 💡 *"Turning ideas into intelligent, real-world AI systems — one project at a time."*
+### 💡 *"Turning ideas into intelligent, real-world AI systems."*
 
 </div>
