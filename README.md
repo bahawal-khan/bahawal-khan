@@ -102,7 +102,7 @@ End-to-end churn prediction platform with SHAP explainability, an analytics dash
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bahawal-khan&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=bahawal-khan&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahawal-khan&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
