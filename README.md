@@ -31,7 +31,7 @@ I build intelligent, full-stack AI applications — combining machine learning, 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -61,6 +61,15 @@ I also build the web layer that turns AI models into real, usable products.
 <div align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,docker&perline=4" />
 </div>
+
+<br/>
+
+## 🧭 Currently Exploring
+
+- 🤖 Agentic AI & multi-step LLM workflows
+- 🔎 Advanced RAG techniques (CRAG, Self-RAG)
+- 🔗 LangGraph for stateful, production-grade agents
+- 📊 AI evaluation & observability with LangSmith
 
 <br/>
 
