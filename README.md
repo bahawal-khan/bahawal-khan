@@ -4,11 +4,13 @@
 
 # Hi, I'm Bahawal Khan 👋
 
-### 🤖 AI/ML Engineer | Machine Learning · Deep Learning · Generative AI · RAG · Agentic AI
+### 🤖 AI/ML Engineer &nbsp;|&nbsp; Machine Learning → Deep Learning → Generative AI → Agentic AI
 
-📍 Lahore, Pakistan &nbsp;|&nbsp; 🎓 BSCS Student, University of Lahore
+📍 Lahore, Pakistan &nbsp;•&nbsp; 🎓 BSCS Student, University of Lahore
 
-I build intelligent, full-stack AI applications by combining machine learning, LLMs, retrieval systems, modern web technologies, and agentic workflows.
+I build intelligent, full-stack AI applications — combining machine learning, LLMs, retrieval systems, and agentic workflows into real, usable products.
+
+<br/>
 
 <a href="https://github.com/bahawal-khan"><img src="https://img.shields.io/badge/GitHub-bahawal--khan-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/bahawal-khan-9b1124313"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -19,52 +21,41 @@ I build intelligent, full-stack AI applications by combining machine learning, L
 
 <br/>
 
-## 🧑‍💻 About Me
-
-- 🎯 Focused on becoming a production-ready **AI Engineer**
-- 🧠 Currently exploring **Agentic AI**, **Advanced RAG**, and **LangGraph** workflows
-- 🛠️ Comfortable across the full stack — model, API, database, and UI
-- 📫 Reach me at **khanbahawal2004@gmail.com**
-
-<br/>
-
 ## 🧰 Tech Stack
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,flask,react,nextjs,postgresql,docker,git,github,linux,js,html,css,vscode&perline=8" />
+</div>
 
-**Machine Learning & Deep Learning**
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
 
-**Generative AI & Agents**
+<div align="center">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-5B5FEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge"/>
+
+</div>
+
 <br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agentic_AI-5B5FEF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
 
-**Web & Backend**
+## 🌐 Web Development
+
+I also build the web layer that turns AI models into real, usable products.
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&perline=5" />
+</div>
+
 <br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-**Databases & Tools**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+## ⚙️ Backend & Database
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,docker&perline=4" />
 </div>
 
 <br/>
@@ -76,8 +67,8 @@ I build intelligent, full-stack AI applications by combining machine learning, L
 <td width="33%" valign="top">
 
 ### 🎧 Customer Support AI
-Intent, sentiment & priority detection with a fine-tuned DistilBERT model plus a RAG pipeline for grounded responses.
-<br/><br/>
+Intent, sentiment & priority detection with a fine-tuned DistilBERT model, plus a RAG pipeline for grounded responses.
+
 **Macro F1: 0.9982**
 <br/>
 `FastAPI` `LangChain` `RAG` `PostgreSQL`
@@ -87,7 +78,7 @@ Intent, sentiment & priority detection with a fine-tuned DistilBERT model plus a
 
 ### 🌱 PlantCare AI
 Computer-vision plant disease classifier using EfficientNetB0 transfer learning on 54K+ leaf images.
-<br/><br/>
+
 **Val. Accuracy: 98.64%**
 <br/>
 `TensorFlow` `Keras` `Computer Vision`
@@ -97,7 +88,7 @@ Computer-vision plant disease classifier using EfficientNetB0 transfer learning 
 
 ### 📉 ChurnAI
 End-to-end churn prediction platform with SHAP explainability, an analytics dashboard, and production deployment.
-<br/><br/>
+
 **Recall: 82% · ROC-AUC: 0.78**
 <br/>
 `Flask` `Next.js` `SHAP` `PostgreSQL`
@@ -108,14 +99,11 @@ End-to-end churn prediction platform with SHAP explainability, an analytics dash
 
 <br/>
 
-## 📊 Highlights
+## 📊 GitHub Stats
 
 <div align="center">
-
-| 🌱 PlantCare AI | 🎧 Customer Support AI | 📉 ChurnAI |
-|:---:|:---:|:---:|
-| **98.64%** Validation Accuracy | **0.9982** Macro F1 | **82%** Churn Recall |
-
+<img src="https://github-readme-stats.vercel.app/api?username=bahawal-khan&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bahawal-khan&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <br/>
@@ -128,28 +116,8 @@ End-to-end churn prediction platform with SHAP explainability, an analytics dash
 <a href="https://www.kaggle.com/bahawalk"><img src="https://img.shields.io/badge/Kaggle-Bahawal_Khan-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="mailto:khanbahawal2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-## ⚡ Fun Fact
-
-I once built an AI agent that debugged its own RAG pipeline before I finished my morning chai. ☕🤖
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Bahawal Khan"
-        self.role = "AI/ML Engineer"
-        self.focus = ["RAG", "Agentic AI", "LangGraph"]
-        self.currently_learning = "Production AI Systems"
-
-    def say_hi(self):
-        return "Thanks for stopping by — let's build something intelligent! 🚀"
-```
-
-<div align="center">
-
-**Building today. Learning every day. Engineering the future with AI. 🚀**
+### 💡 *"Turning ideas into intelligent, real-world AI systems — one project at a time."*
 
 </div>
