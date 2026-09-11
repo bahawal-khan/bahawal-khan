@@ -75,40 +75,27 @@ I also build the web layer that turns AI models into real, usable products.
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
 ### 🎧 Customer Support AI
 Intent, sentiment & priority detection with a fine-tuned DistilBERT model, plus a RAG pipeline for grounded responses.
-
 **Macro F1: 0.9982**
 <br/>
 `FastAPI` `LangChain` `RAG` `PostgreSQL`
 
-</td>
-<td width="33%" valign="top">
+---
 
 ### 🌱 PlantCare AI
 Computer-vision plant disease classifier using EfficientNetB0 transfer learning on 54K+ leaf images.
-
 **Val. Accuracy: 98.64%**
 <br/>
 `TensorFlow` `Keras` `Computer Vision`
 
-</td>
-<td width="33%" valign="top">
+---
 
 ### 📉 ChurnAI
 End-to-end churn prediction platform with SHAP explainability, an analytics dashboard, and production deployment.
-
 **Recall: 82% · ROC-AUC: 0.78**
 <br/>
 `Flask` `Next.js` `SHAP` `PostgreSQL`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
