@@ -127,9 +127,9 @@ An AI booking agent that supports both manual and fully automated bookings, with
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bahawal-khan&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
+<img src="https://github-trophies.vercel.app/?username=bahawal-khan&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
 <br/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bahawal-khan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=bahawal-khan&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 <br/>
@@ -145,6 +145,6 @@ An AI booking agent that supports both manual and fully automated bookings, with
 
 <br/><br/>
 
-### 💡 *"Turning ideas into intelligent, real-world AI systems."*
+### 💡 *"Turning ideas into intelligent, real-world AI systems — one project at a time."*
 
 </div>
