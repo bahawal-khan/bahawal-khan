@@ -145,6 +145,6 @@ An AI booking agent that supports both manual and fully automated bookings, with
 
 <br/><br/>
 
-### 💡 *"Turning ideas into intelligent, real-world AI systems — one project at a time."*
+### 💡 *"Turning ideas into intelligent, real-world AI systems."*
 
 </div>
