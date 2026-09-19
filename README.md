@@ -13,6 +13,7 @@ I build intelligent, full-stack AI applications — combining machine learning, 
 <br/>
 
 <a href="https://github.com/bahawal-khan"><img src="https://img.shields.io/badge/GitHub-bahawal--khan-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://khanova.tech"><img src="https://img.shields.io/badge/Portfolio-khanova.tech-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/bahawal-khan-9b1124313"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/bahawalk"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="mailto:khanbahawal2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -96,6 +97,22 @@ End-to-end churn prediction platform with SHAP explainability, an analytics dash
 **Recall: 82% · ROC-AUC: 0.78**
 <br/>
 `Flask` `Next.js` `SHAP` `PostgreSQL`
+<br/>
+🔗 [Live Demo](https://churnai.khanova.tech)
+
+---
+
+### 🤖 Nexor AI
+A multimodal agentic AI application built with LangGraph & LangChain — features persistent conversations via Postgres checkpoints, auth, and a FastAPI + React stack.
+<br/>
+`LangGraph` `LangChain` `FastAPI` `React` `PostgreSQL`
+
+---
+
+### 🛍️ ShopAgent
+An AI booking agent that supports both manual and fully automated bookings, with Human-in-the-Loop (HITL) approval built into the agent workflow.
+<br/>
+`LangGraph` `Agentic AI` `HITL` `NLP`
 
 <br/>
 
@@ -104,6 +121,8 @@ End-to-end churn prediction platform with SHAP explainability, an analytics dash
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=bahawal-khan&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahawal-khan&theme=tokyonight&hide_border=true" height="165"/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bahawal-khan&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
 
 <br/>
@@ -112,12 +131,13 @@ End-to-end churn prediction platform with SHAP explainability, an analytics dash
 
 <div align="center">
 
+<a href="https://khanova.tech"><img src="https://img.shields.io/badge/Portfolio-khanova.tech-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/bahawal-khan-9b1124313"><img src="https://img.shields.io/badge/LinkedIn-Bahawal_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/bahawalk"><img src="https://img.shields.io/badge/Kaggle-Bahawal_Khan-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="mailto:khanbahawal2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-### 💡 *"Turning ideas into intelligent, real-world AI systems."*
+### 💡 *"Turning ideas into intelligent, real-world AI systems — one project at a time."*
 
 </div>
