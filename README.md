@@ -81,6 +81,8 @@ Intent, sentiment & priority detection with a fine-tuned DistilBERT model, plus 
 **Macro F1: 0.9982**
 <br/>
 `FastAPI` `LangChain` `RAG` `PostgreSQL`
+<br/>
+🔗 [Live Demo](https://customer-support.khanova.tech)
 
 ---
 
@@ -89,6 +91,8 @@ Computer-vision plant disease classifier using EfficientNetB0 transfer learning 
 **Val. Accuracy: 98.64%**
 <br/>
 `TensorFlow` `Keras` `Computer Vision`
+<br/>
+🔗 [Live Demo](https://plantcare.khanova.tech)
 
 ---
 
@@ -106,6 +110,8 @@ End-to-end churn prediction platform with SHAP explainability, an analytics dash
 A multimodal agentic AI application built with LangGraph & LangChain — features persistent conversations via Postgres checkpoints, auth, and a FastAPI + React stack.
 <br/>
 `LangGraph` `LangChain` `FastAPI` `React` `PostgreSQL`
+<br/>
+🔗 [Live Demo](https://nexor-ai.khanova.tech)
 
 ---
 
@@ -113,16 +119,17 @@ A multimodal agentic AI application built with LangGraph & LangChain — feature
 An AI booking agent that supports both manual and fully automated bookings, with Human-in-the-Loop (HITL) approval built into the agent workflow.
 <br/>
 `LangGraph` `Agentic AI` `HITL` `NLP`
+<br/>
+🔗 [Live Demo](https://shopagent.khanova.tech)
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=bahawal-khan&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bahawal-khan&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bahawal-khan&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bahawal-khan&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bahawal-khan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 <br/>
