@@ -120,7 +120,7 @@ An AI booking agent that supports both manual and fully automated bookings, with
 <br/>
 `LangGraph` `Agentic AI` `HITL` `NLP`
 <br/>
-🔗 [Live Demo](https://shopagent.khanova.tech)
+🚧 Currently in working state
 
 <br/>
 
