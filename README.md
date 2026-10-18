@@ -82,7 +82,6 @@ Intent, sentiment & priority detection with a fine-tuned DistilBERT model, plus 
 <br/>
 `FastAPI` `LangChain` `RAG` `PostgreSQL`
 <br/>
-🔗 [Live Demo](https://customer-support.khanova.tech)
 
 ---
 
@@ -92,7 +91,6 @@ Computer-vision plant disease classifier using EfficientNetB0 transfer learning 
 <br/>
 `TensorFlow` `Keras` `Computer Vision`
 <br/>
-🔗 [Live Demo](https://plantcare.khanova.tech)
 
 ---
 
@@ -102,7 +100,6 @@ End-to-end churn prediction platform with SHAP explainability, an analytics dash
 <br/>
 `Flask` `Next.js` `SHAP` `PostgreSQL`
 <br/>
-🔗 [Live Demo](https://churnai.khanova.tech)
 
 ---
 
@@ -111,7 +108,6 @@ A multimodal agentic AI application built with LangGraph & LangChain — feature
 <br/>
 `LangGraph` `LangChain` `FastAPI` `React` `PostgreSQL`
 <br/>
-🔗 [Live Demo](https://nexor-ai.khanova.tech)
 
 ---
 
