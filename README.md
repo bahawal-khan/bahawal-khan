@@ -162,9 +162,9 @@ An automated evaluation framework for RAG systems — test individual components
 
 <br/><br/>
 
-**🧊 3D Contribution View**
+**🧊 3D Contribution Skyline** — my last 12 weeks, live
 
-<img src="https://raw.githubusercontent.com/bahawal-khan/bahawal-khan/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" width="860"/>
+<img src="https://raw.githubusercontent.com/bahawal-khan/bahawal-khan/main/profile-stats/skyline.gif" alt="Rotating 3D contribution skyline" width="560"/>
 
 <br/><br/>
 
