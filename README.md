@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/bahawal-khan.png" width="130" height="130" style="border-radius:50%;" alt="Bahawal Khan"/>
-
 # Hi, I'm Bahawal Khan 👋
 
 ### 🤖 AI/ML Engineer &nbsp;|&nbsp; Machine Learning → Deep Learning → Generative AI → Agentic AI
@@ -25,7 +23,7 @@ I build intelligent, full-stack AI applications — combining machine learning, 
 ## 🧰 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,flask,react,nextjs,postgresql,docker,git,github,linux,js,html,css,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,react,nextjs,postgresql,docker,git,github,linux,js,html,css,vscode&perline=8" />
 </div>
 
 <br/>
@@ -60,16 +58,45 @@ I also build the web layer that turns AI models into real, usable products.
 ## ⚙️ Backend & Database
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,docker&perline=4" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker&perline=3" />
 </div>
+
+<br/>
+
+## 🏗️ System Design & Scalable Architecture
+
+Good AI products need more than a good model — they need to be **fast, scalable and secure**. I'm learning and applying high-level design (HLD) so what I build can handle real traffic.
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=redis,kafka,nginx,docker,postgres,githubactions&perline=6" />
+</div>
+
+<br/>
+
+**📐 High-Level Design**
+- ⚖️ Load balancing & horizontal scaling
+- 🗄️ Database sharding & replication
+- ⚡ Caching strategies with Redis
+- 📨 Event-driven systems & message queues with Kafka
+- 🚦 Rate limiting, API gateways & CDNs
+- 🔁 CAP theorem, consistency & fault tolerance
+- 🔐 Secure by design: authentication (JWT/OAuth), input validation, secrets management
+- 📈 Observability: logging, metrics & tracing
+
+**🧪 Testing & Quality**
+- ✅ Unit & integration testing
+- 🚀 Load & performance testing
+- 🔄 CI/CD pipelines with GitHub Actions
+- 📏 LLM & RAG evaluation (see **RAG Eval** below)
 
 <br/>
 
 ## 🧭 Currently Exploring
 
 - 🤖 Agentic AI & multi-step LLM workflows
-- 🔎 Advanced RAG techniques (CRAG, Self-RAG)
+- 🔎 Advanced RAG techniques (CRAG, Self-RAG) and automated RAG evaluation
 - 🔗 LangGraph for stateful, production-grade agents
+- 🏗️ System design: scaling, caching, sharding, replication & event-driven architecture
 - 📊 AI evaluation & observability with LangSmith
 
 <br/>
@@ -81,7 +108,6 @@ Intent, sentiment & priority detection with a fine-tuned DistilBERT model, plus 
 **Macro F1: 0.9982**
 <br/>
 `FastAPI` `LangChain` `RAG` `PostgreSQL`
-<br/>
 
 ---
 
@@ -90,7 +116,6 @@ Computer-vision plant disease classifier using EfficientNetB0 transfer learning 
 **Val. Accuracy: 98.64%**
 <br/>
 `TensorFlow` `Keras` `Computer Vision`
-<br/>
 
 ---
 
@@ -99,7 +124,6 @@ End-to-end churn prediction platform with SHAP explainability, an analytics dash
 **Recall: 82% · ROC-AUC: 0.78**
 <br/>
 `Flask` `Next.js` `SHAP` `PostgreSQL`
-<br/>
 
 ---
 
@@ -107,7 +131,6 @@ End-to-end churn prediction platform with SHAP explainability, an analytics dash
 A multimodal agentic AI application built with LangGraph & LangChain — features persistent conversations via Postgres checkpoints, auth, and a FastAPI + React stack.
 <br/>
 `LangGraph` `LangChain` `FastAPI` `React` `PostgreSQL`
-<br/>
 
 ---
 
@@ -118,14 +141,38 @@ An AI booking agent that supports both manual and fully automated bookings, with
 <br/>
 🚧 Currently in working state
 
+---
+
+### 🧪 RAG Eval
+An automated evaluation framework for RAG systems — test individual components (retrieval, generation) as well as the complete application end to end, instead of only judging the final answer.
+<br/>
+`RAG` `LLM Evaluation` `Automation` `Python`
+
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=bahawal-khan&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
-<br/>
-<img src="https://github-stats-extended.vercel.app/api?username=bahawal-khan&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://raw.githubusercontent.com/bahawal-khan/bahawal-khan/main/profile-stats/streak.svg" alt="Contribution streak" width="560"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/bahawal-khan/bahawal-khan/main/profile-stats/heatmap.svg" alt="Contribution heatmap" width="860"/>
+
+<br/><br/>
+
+**🧊 3D Contribution View**
+
+<img src="https://raw.githubusercontent.com/bahawal-khan/bahawal-khan/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" width="860"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/bahawal-khan/bahawal-khan/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repo" width="48%"/>
+<img src="https://raw.githubusercontent.com/bahawal-khan/bahawal-khan/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" width="48%"/>
+<img src="https://raw.githubusercontent.com/bahawal-khan/bahawal-khan/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="48%"/>
+<img src="https://raw.githubusercontent.com/bahawal-khan/bahawal-khan/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" width="48%"/>
+
 </div>
 
 <br/>
