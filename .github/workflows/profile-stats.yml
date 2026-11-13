@@ -1,0 +1,67 @@
+name: Profile Stats
+
+# Refreshes the heatmap, streak, 3D view and language cards every 6 hours.
+# You can also run it instantly: Actions tab -> Profile Stats -> Run workflow.
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      # 1) Language / stats / productive-time cards -> profile-summary-card-output/
+      #    If these cards come out missing, create a Personal Access Token and save it
+      #    as a repo secret named SUMMARY_GITHUB_TOKEN (falls back to the default token).
+      - name: Summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 5
+
+      # The step above commits on its own, so sync before adding more files.
+      - name: Sync with main
+        run: git pull --rebase --autostash origin main || true
+
+      # 2) 3D contribution calendar -> profile-3d-contrib/
+      - name: 3D contributions
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 3) Green heatmap + streak card -> profile-stats/
+      - name: Heatmap and streak
+        run: python3 .github/scripts/generate_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-stats profile-3d-contrib profile-summary-card-output
+          if git diff --cached --quiet; then
+            echo "Nothing changed"
+          else
+            git commit -m "chore: refresh profile stats"
+            git pull --rebase origin main
+            git push
+          fi
