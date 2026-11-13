@@ -158,13 +158,7 @@ An automated evaluation framework for RAG systems — test individual components
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/bahawal-khan/bahawal-khan/main/profile-stats/heatmap.svg" alt="Contribution heatmap" width="860"/>
-
-<br/><br/>
-
-**🧊 3D Contribution Skyline** — my last 12 weeks, live
-
-<img src="https://raw.githubusercontent.com/bahawal-khan/bahawal-khan/main/profile-stats/skyline.gif" alt="Rotating 3D contribution skyline" width="560"/>
+<img src="https://raw.githubusercontent.com/bahawal-khan/bahawal-khan/main/profile-stats/snake.svg" alt="Snake eating my contribution graph" width="860"/>
 
 <br/><br/>
 
@@ -181,10 +175,16 @@ An automated evaluation framework for RAG systems — test individual components
 
 <div align="center">
 
+**Need guidance or help with anything — AI/ML, RAG & agentic systems, projects, or getting started in tech?**
+<br/>
+I'm here to help. Email me anytime and I'll be happy to point you in the right direction.
+
+<br/>
+
 <a href="https://khanova.tech"><img src="https://img.shields.io/badge/Portfolio-khanova.tech-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/bahawal-khan-9b1124313"><img src="https://img.shields.io/badge/LinkedIn-Bahawal_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/bahawalk"><img src="https://img.shields.io/badge/Kaggle-Bahawal_Khan-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="mailto:khanbahawal2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:khanbahawal2004@gmail.com"><img src="https://img.shields.io/badge/Email-Ask_Me_Anything-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
