@@ -4,9 +4,9 @@
     <line x1="195" y1="26" x2="195" y2="150" stroke="#30363d"/>
     <line x1="365" y1="26" x2="365" y2="150" stroke="#30363d"/>
 
-    <text x="98" y="78" font-size="34" font-weight="700" fill="#39d353">241</text>
+    <text x="98" y="78" font-size="34" font-weight="700" fill="#39d353">243</text>
     <text x="98" y="104" font-size="14" fill="#26a641">Total Contributions</text>
-    <text x="98" y="124" font-size="11" fill="#6e7681">Jul 11, 2026 - Present</text>
+    <text x="98" y="124" font-size="11" fill="#6e7681">Jul 12, 2026 - Present</text>
 
     <circle cx="280" cy="78" r="40" fill="none" stroke="#161b22" stroke-width="6"/>
     <circle cx="280" cy="78" r="40" fill="none" stroke="#39d353" stroke-width="6" stroke-linecap="round"
@@ -19,8 +19,8 @@
     <text x="280" y="140" font-size="14" font-weight="600" fill="#39d353">Current Streak</text>
     <text x="280" y="158" font-size="11" fill="#6e7681">Nov 12 - Nov 13</text>
 
-    <text x="462" y="78" font-size="34" font-weight="700" fill="#39d353">7</text>
+    <text x="462" y="78" font-size="34" font-weight="700" fill="#39d353">5</text>
     <text x="462" y="104" font-size="14" fill="#26a641">Longest Streak</text>
-    <text x="462" y="124" font-size="11" fill="#6e7681">Aug 1 - Aug 7</text>
+    <text x="462" y="124" font-size="11" fill="#6e7681">Sep 1 - Sep 5</text>
   </g>
 </svg>
