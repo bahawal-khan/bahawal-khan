@@ -38,14 +38,15 @@ jobs:
       - name: Sync with main
         run: git pull --rebase --autostash origin main || true
 
-      # 2) 3D contribution calendar -> profile-3d-contrib/
-      - name: 3D contributions
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+           # 2) Rotating 3D skyline (animated GIF) -> profile-stats/skyline.gif
+      - name: 3D skyline
+        run: |
+          pip install pillow
+          python3 .github/scripts/skyline.py
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
       # 3) Green heatmap + streak card -> profile-stats/
       - name: Heatmap and streak
         run: python3 .github/scripts/generate_stats.py
