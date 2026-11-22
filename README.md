@@ -12,7 +12,7 @@ I build intelligent, full-stack AI applications — combining machine learning, 
 
 <a href="https://github.com/bahawal-khan"><img src="https://img.shields.io/badge/GitHub-bahawal--khan-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://khanova.tech"><img src="https://img.shields.io/badge/Portfolio-khanova.tech-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/bahawal-khan-9b1124313"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bahawal-khan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/bahawalk"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="mailto:khanbahawal2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -182,7 +182,7 @@ I'm here to help. Email me anytime and I'll be happy to point you in the right d
 <br/>
 
 <a href="https://khanova.tech"><img src="https://img.shields.io/badge/Portfolio-khanova.tech-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/bahawal-khan-9b1124313"><img src="https://img.shields.io/badge/LinkedIn-Bahawal_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bahawal-khan"><img src="https://img.shields.io/badge/LinkedIn-Bahawal_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/bahawalk"><img src="https://img.shields.io/badge/Kaggle-Bahawal_Khan-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="mailto:khanbahawal2004@gmail.com"><img src="https://img.shields.io/badge/Email-Ask_Me_Anything-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
